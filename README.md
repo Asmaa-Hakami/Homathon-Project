@@ -1,3 +1,2 @@
 # sample
 
-Flutter project.
