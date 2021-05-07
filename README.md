@@ -1,1 +1,3 @@
-# Jeddah Friends App
+# sample
+
+Flutter project.
